@@ -12,6 +12,7 @@ CREATE TABLE [dbo].[T_10Col_22](
 	[Column7] [nvarchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[Column8] [nvarchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[Column9] [nvarchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Column11] [nvarchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[Column10] [nvarchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
  CONSTRAINT [PK_T_10Col_22_Column1] PRIMARY KEY CLUSTERED 
 (
